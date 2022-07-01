@@ -2,7 +2,7 @@
 
 ## How to use:
 
-```
+```js
 import React from 'react';
 
 import { useForm }from './FormHook';
@@ -41,4 +41,4 @@ export default const RandomForm = () => {
 }
 ```
 
-# This doesn't only make code reusable (legit the purpose of react) but it also saves a ton of time when it comes to having multiple forms on a page.
+## This doesn't only make code reusable (legit the purpose of react) but it also saves a ton of time when it comes to having multiple forms on a page.
